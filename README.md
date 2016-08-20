@@ -48,4 +48,4 @@ The following source will do an `alert(1)`:
     eval        =>  []["filter"]["constructor"]("return eval")()( CODE )
     window      =>  []["filter"]["constructor"]("return this")()
     
-See the full list [here](https://www.whatled.com/JSFun/).
+See the full list [here](http://www.whatled.com/jsfun/).
